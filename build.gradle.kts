@@ -36,7 +36,7 @@ repositories {
 }
 
 val ktorVersion = "1.4.0"
-val exposedVersion = "0.21.1"
+val exposedVersion = "0.25.1"
 
 application {
     mainClassName = "io.ktor.server.netty.EngineMain"
